@@ -1,0 +1,8 @@
+лют. 09, 2023 3:58:27 ПП main.Manager <init>
+INFO: Starts initialize Manager.
+лют. 09, 2023 3:58:27 ПП main.Manager <init>
+INFO: Initialize was finished successfully!
+лют. 09, 2023 3:58:41 ПП main.helpers.Extension parseId
+WARNING: Incorrect id!
+лют. 09, 2023 3:58:41 ПП main.Manager loadVan
+WARNING: Method 'loadVan' was skipped!
